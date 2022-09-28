@@ -1,0 +1,20 @@
+.float-btn{
+    width: 60px;
+    height: 55px;
+    border: 1px solid rgb(180, 207, 207);
+    border-radius: 25px;
+    color: white;
+    font-size:25px;
+    background: rgb(9, 235, 235);
+    z-index: 999;
+    position: fixed;
+    box-shadow: 5px 3px 10px black;
+    top: 157px;
+}
+.input-field{
+    position: fixed;
+    height: 40px;
+}
+.content{
+    margin-top: 100px;
+}
